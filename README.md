@@ -1,16 +1,14 @@
 # BMO-PROJECT 
 
-# 🤖 BMO Project: Bringing Ooo's Beloved Companion to Life
+🤖 BMO Project: Bringing Ooo's Beloved Companion to Life
 
-> *"When bad things happen, I know you want to believe they are a joke, but sometimes life is scary and dark. That is why we must find the light."* — **BMO**
+"When bad things happen,I know you want to believe they are a joke,but sometimes life is scary and dark.That is why we must find the light."
 
----
+🌟 The Vision & Motivation
 
-## 🌟 The Vision & Motivation
+As an Electrical and Computer Engineering (ECE / ΗΜΜΥ) student,engineering is more than just circuit analysis,signal processing and algorithms,it is the ultimate toolkit to bring imagination into the physical World. 
 
-As an **Electrical and Computer Engineering (ECE / ΗΜΜΥ) student**, engineering is more than just circuit analysis, signal processing, and algorithms—it is the ultimate toolkit to bring imagination into physical reality. 
-
-This project was born out of a genuine love for the iconic animated series **Adventure Time** and, specifically, for **BMO (Beemo)**. BMO is not just a device; in the Land of Ooo, BMO is a loyal friend, a retro gaming console, a camera, a music player, and a living personality with a childlike wonder for the world. 
+This project was born out of a genuine love for the iconic animated series "Adventure Time" and, specifically, for **BMO (Beemo)**. BMO is not just a device; in the Land of Ooo, BMO is a loyal friend, a retro gaming console, a camera, a music player, and a living personality with a childlike wonder for the world. 
 
 The primary goal of this project is to bridge nostalgic pop culture with real-world embedded engineering. By combining **Hardware Architecture**, **3D Design & Printing**, **Embedded Systems**, and **Software Engineering**, this project manifests a fully functional, real-world companion inspired by MO Co.'s most special creation.
 

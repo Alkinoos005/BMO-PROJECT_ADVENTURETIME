@@ -1,4 +1,4 @@
-# BMO-PROJECT 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1a89becc-174b-48e7-be9f-6863b86781ff" /># BMO-PROJECT 
 
 🤖 BMO Project: Bringing Ooo's Beloved Companion to Life
 
@@ -26,42 +26,25 @@ Living Companion: Beyond being a machine,BMO possesses a vibrant,imaginative per
 
 Transforming a fictional 2D animated character into a functional hardware project requires an interdisciplinary ECE approach:
 
-+-----------------------------+
-                  |       Power Supply          |
-                  |   (Li-Po / USB-C PMIC)      |
-                  +--------------+--------------+
-                                 |
-                                 v
-+-----------------------+   +-------------------+   +------------------------+
-|   User Input / HID    |-->| Main Microcontroller|-->|     Display Unit       |
-| (Buttons / Joysticks) |   |  / SBC (e.g. RPi) |   | (TFT LCD / OLED Panel) |
-+-----------------------+   +---------+---------+   +------------------------+
-|
-v
-+-------------------+
-| Audio Subsystem   |
-| (DAC + Amplifier) |
-+-------------------+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f9a5a571-2745-4042-b951-9df04cde4a1c" />
 
 
-### 1. 🖨️ Mechanical & Industrial Design (3D CAD & Printing)
+1) ⚙️ Mechanical & Industrial Design (3D CAD & Printing)
 * Custom 3D CAD modeling of BMO's chassis, ensuring correct proportions, side text ("BMO"), slot placements, and internal component mounting rails.
 * Tolerancing for button actuation, screen bezels, and ventilation for internal electronics.
 
-### 2. ⚡ Hardware & Electronics Subsystem
-* **Processing Unit:** Single Board Computer (SBC) or high-performance Microcontroller driving the core OS and display UI.
-* **Display Interface:** LCD screen configured to render BMO’s animated facial expressions, UI elements, and retro games.
-* **Audio Engineering:** Integrated DAC/Amp board and mini speakers for sound effects, iconic voice lines, and media playback.
-* **Power Management:** Battery-powered operation with embedded charging circuits, voltage regulators, and status LEDs.
+2) ⚡ Hardware & Electronics Subsystem
+a) Processing Unit: Single Board Computer (SBC) or high-performance Microcontroller driving the core OS and display UI.
+b) Display Interface: LCD screen configured to render BMO’s animated facial expressions,UI elements and retro games.
+c) Audio Engineering: Integrated DAC/Amp board and mini speakers for sound effects,iconic voice lines and media playback.
+d) Power Management: Battery-powered operation with embedded charging circuits,voltage regulators and status LEDs.
 
-### 3. 💻 Software & Interactive Interface
-* Custom GUI/UI layer for rendering interactive facial expressions and state animations.
-* Retro gaming emulation integration (e.g., RetroPie / EmulationStation or custom lightweight game engines).
-* Input mapping for custom-wired buttons, directional pads, and peripheral controllers.
+3) 💻 Software & Interactive Interface
+a) Custom GUI/UI layer for rendering interactive facial expressions and state animations.
+b) Retro gaming emulation integration (e.g., RetroPie / EmulationStation or custom lightweight game engines).
+c) Input mapping for custom-wired buttons, directional pads, and peripheral controllers.
 
----
-
-## 📁 Repository Structure
+📁 Repository Structure
 
 ```gcode
 BMO-PROJECT-ADVENTURETIME/

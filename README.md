@@ -1,5 +1,3 @@
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1a89becc-174b-48e7-be9f-6863b86781ff" /># BMO-PROJECT 
-
 🤖 BMO Project: Bringing Ooo's Beloved Companion to Life
 
 "When bad things happen,I know you want to believe they are a joke,but sometimes life is scary and dark.That is why we must find the light."
@@ -26,8 +24,7 @@ Living Companion: Beyond being a machine,BMO possesses a vibrant,imaginative per
 
 Transforming a fictional 2D animated character into a functional hardware project requires an interdisciplinary ECE approach:
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f9a5a571-2745-4042-b951-9df04cde4a1c" />
-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1a89becc-174b-48e7-be9f-6863b86781ff" /># BMO-PROJECT 
 
 1) ⚙️ Mechanical & Industrial Design (3D CAD & Printing)
 * Custom 3D CAD modeling of BMO's chassis, ensuring correct proportions, side text ("BMO"), slot placements, and internal component mounting rails.

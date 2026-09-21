@@ -4,13 +4,14 @@
 
 🌟 The Vision & Motivation
 
-<img width="1408" height="768" alt="COOL_BMO" src="https://github.com/user-attachments/assets/a809f278-dcfa-42d7-8832-5595457bb18e" />
-
 As an Electrical and Computer Engineering (ECE / ΗΜΜΥ) student,engineering is more than just circuit analysis,signal processing and algorithms,it is the ultimate toolkit to bring imagination into the physical World. 
 
 This project was born out of a genuine love for the iconic animated series "Adventure Time".More specifically BMO (Beemo)is an underrated and beloved character. BMO is not just a device in the Land of Ooo,BMO is a loyal friend,a retro gaming console,a camera,a music player and a living personality with a childlike wonder for the world. 
 
 The primary goal of this project is to bridge nostalgic pop culture with real-world embedded engineering.By combining Hardware Architecture,3D Design & Printing,Embedded Systems and Software Engineering, this project manifests a fully functional, real-world companion inspired by MO Co.'s most special creation.
+
+<img width="1408" height="768" alt="COOL_BMO" src="https://github.com/user-attachments/assets/a809f278-dcfa-42d7-8832-5595457bb18e" />
+
 
 🧠 Who is BMO? (Lore & Inspiration)
 

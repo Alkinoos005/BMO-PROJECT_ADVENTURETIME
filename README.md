@@ -1,10 +1,10 @@
 🤖 BMO Project: Bringing Ooo's Beloved Companion to Life
 
-https://share.gemini.google/ZXOCrA04N07u
-
 "When bad things happen,I know you want to believe they are a joke,but sometimes life is scary and dark.That is why we must find the light."
 
 🌟 The Vision & Motivation
+![Uploading image.png…]()
+
 
 As an Electrical and Computer Engineering (ECE / ΗΜΜΥ) student,engineering is more than just circuit analysis,signal processing and algorithms,it is the ultimate toolkit to bring imagination into the physical World. 
 

@@ -3,8 +3,8 @@
 "When bad things happen,I know you want to believe they are a joke,but sometimes life is scary and dark.That is why we must find the light."
 
 🌟 The Vision & Motivation
-![Uploading image.png…]()
 
+<img width="1408" height="768" alt="COOL_BMO" src="https://github.com/user-attachments/assets/a809f278-dcfa-42d7-8832-5595457bb18e" />
 
 As an Electrical and Computer Engineering (ECE / ΗΜΜΥ) student,engineering is more than just circuit analysis,signal processing and algorithms,it is the ultimate toolkit to bring imagination into the physical World. 
 

@@ -33,6 +33,8 @@ Transforming a fictional 2D animated character into a functional hardware projec
 * Custom 3D CAD modeling of BMO's chassis, ensuring correct proportions, side text ("BMO"), slot placements, and internal component mounting rails.
 * Tolerancing for button actuation, screen bezels, and ventilation for internal electronics.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/852a59ae-08fd-4346-ba1e-2e91aede23c5" />
+
 2) ⚡ Hardware & Electronics Subsystem
 a) Processing Unit: Single Board Computer (SBC) or high-performance Microcontroller driving the core OS and display UI.
 b) Display Interface: LCD screen configured to render BMO’s animated facial expressions,UI elements and retro games.

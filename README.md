@@ -43,6 +43,8 @@ a) Custom GUI/UI layer for rendering interactive facial expressions and state an
 b) Retro gaming emulation integration (e.g., RetroPie / EmulationStation or custom lightweight game engines).
 c) Input mapping for custom-wired buttons, directional pads, and peripheral controllers.
 
+<img width="1408" height="768" alt="BMO_COOL" src="https://github.com/user-attachments/assets/5a4a590b-39bd-4a65-874b-49131342dc3c" />
+
 📁 Repository Structure
 
 ```gcode

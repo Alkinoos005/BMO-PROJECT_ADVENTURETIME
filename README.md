@@ -38,10 +38,14 @@ b) Display Interface: LCD screen configured to render BMO’s animated facial ex
 c) Audio Engineering: Integrated DAC/Amp board and mini speakers for sound effects,iconic voice lines and media playback.
 d) Power Management: Battery-powered operation with embedded charging circuits,voltage regulators and status LEDs.
 
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5c4009f4-d6d2-4316-a8f8-7d26d05b84f4" />
+
 3) 💻 Software & Interactive Interface
 a) Custom GUI/UI layer for rendering interactive facial expressions and state animations.
 b) Retro gaming emulation integration (e.g., RetroPie / EmulationStation or custom lightweight game engines).
 c) Input mapping for custom-wired buttons, directional pads, and peripheral controllers.
+
 
 <img width="1408" height="768" alt="BMO_COOL" src="https://github.com/user-attachments/assets/5a4a590b-39bd-4a65-874b-49131342dc3c" />
 

@@ -1,5 +1,7 @@
 🤖 BMO Project: Bringing Ooo's Beloved Companion to Life
 
+https://share.gemini.google/ZXOCrA04N07u
+
 "When bad things happen,I know you want to believe they are a joke,but sometimes life is scary and dark.That is why we must find the light."
 
 🌟 The Vision & Motivation

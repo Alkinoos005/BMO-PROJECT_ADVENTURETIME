@@ -69,6 +69,27 @@ BMO-PROJECT-ADVENTURETIME/
 
 ```
 
+Tools & Assumptions
+Tools
+3D printer (capable of PLA/PETG)
+Soldering iron with fine tip
+Wire cutters and strippers
+M3 hex key
+Heat-set insertion tool (or soldering iron attachment)
+Tweezers
+Digital Multimeter
+Precision screwdriver set
+Assumptions
+-
+3D slicer software installed and calibrated
+-
+Host computer has Linux flashing utilities available
+-
+Basic soldering and electronics troubleshooting experience
+-
+5V USB-C power source available for testing
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c7b0f3c0-b747-4639-8d43-c71e1d6ef879" />
  
  🚀🛰️And there's BMO in space!!!
+
